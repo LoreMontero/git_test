@@ -1,1 +1,1 @@
-Finally got git and GitHub set up thanks to the Odin Project and the many tutorials I watched.
+Finally got git and GitHub set up thanks to the Odin Project.
